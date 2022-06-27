@@ -12,3 +12,5 @@
 
 - Utiliza los gets y sets para darle valores a las propiedades edad, nombre y telefono, por último muéstralas por consola.
 
+## Solucion
+- Enlace directo al código: https://github.com/niicodeer/OB-ej-t8-Objetos/blob/master/src/objetos.java
